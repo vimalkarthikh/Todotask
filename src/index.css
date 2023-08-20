@@ -1,0 +1,36 @@
+.headtit{
+  text-align: center;
+  margin-top: 1cm;
+}
+input{
+  margin-top: .7cm;
+  margin-left: 1cm;
+  width: 18cm; height: 1.3cm;
+  border-radius: 5px;
+}
+.bodyit {
+ display: flex;
+ flex-direction:row;
+}
+.add-btn{
+  margin-top: .7cm;
+  margin-left: 1cm;
+  border-radius: 8px;
+    border: 1px solid transparent;
+    font-family: inherit;
+    background-color: rgb(0, 140, 255);
+    color: whitesmoke;
+    font-size: medium;
+    transition: border-color 0.25s;
+}
+.neo{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  background-color: antiquewhite;
+}
+
+
+
